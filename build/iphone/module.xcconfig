@@ -1,0 +1,4 @@
+// this is a generated file - DO NOT EDIT
+
+ORG_BEUCKMAN_TIBEACONS_OTHER_LDFLAGS=$(inherited) -framework CoreLocation -framework CoreBluetooth
+OTHER_LDFLAGS=$(inherited) $(ORG_BEUCKMAN_TIBEACONS_OTHER_LDFLAGS) 
